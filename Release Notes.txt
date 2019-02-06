@@ -1,0 +1,8 @@
+After 3 years, AlbertOS has now been released with its first major update. AlbertOS REVAMPED has all the
+functionality we loved from the original AlbertOS, however it includes many updates that were much needed.
+The optimized code has cut down start up times by 75%. All prebundled software, including Notepad, Paint,
+and Calculator have major updates. Along with all of that, there were many aesthetic changes that makes
+AlbertOS REVAMPED what it is.  Without further ado, and with great privilege, I introduce to you the first 
+public release of AlbertOS REVAMPED. Before downloading, please note that AlbertOS REVAMPED requires a
+screen resolution of 1366x768 to operate and the latest version of Java, which can be downloaded for free
+from java.com. Thank you and enjoy!
